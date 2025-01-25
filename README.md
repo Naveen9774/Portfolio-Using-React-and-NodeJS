@@ -1,3 +1,7 @@
+#To Run The React Website of My Portfolio Follow the The Two Steps in Command Promant...
+#First Step ...cd my-app
+#second Step...npm start
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
